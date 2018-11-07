@@ -41,7 +41,7 @@ if __name__ == '__main__':
                   receiver = 'wangxinlei@rayvision.com , 772725218@qq.com , yuanqi-153193682@qq.com',
                   server = 'smtp.exmail.qq.com',
                   sender = 'wangxinlei@rayvision.com',
-                  password = 'Wxl.1314',
+                  password = '',
                   path = report
                   )
     #结束时间
