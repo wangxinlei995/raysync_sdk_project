@@ -38,9 +38,9 @@ if __name__ == '__main__':
     fp.close()
     e = Email(title = 'Raysync自动化测试报告',
                   message = 'Raysync 自动化测试！',
-                  receiver = 'wangxinlei@rayvision.com , 772725218@qq.com , yuanqi-153193682@qq.com',
+                  receiver = '',
                   server = 'smtp.exmail.qq.com',
-                  sender = 'wangxinlei@rayvision.com',
+                  sender = '',
                   password = '',
                   path = report
                   )
